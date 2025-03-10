@@ -1,30 +1,32 @@
 # Machine Learning with Python - TensorFlow
 
-Meu repositório de códigos e anotações do curso [Machine Learning with Python - TensorFlow](https://www.freecodecamp.org/learn/machine-learning-with-python/tensorflow/) oferecido pelo FreeCodeCamp. O curso ensina conceitos fundamentais de aprendizado de máquina utilizando a biblioteca TensorFlow.
+This repository contains code, exercises and personal notes from the [FreeCodeCamp Machine Learning with Python (TensorFlow)](https://www.freecodecamp.org/learn/machine-learning-with-python/tensorflow/) course. It serves as a reference for learning and practicing machine learning concepts using TensorFlow.
 
-## 📌 Conteúdo
+## 📌 Course Overview
 
-O curso cobre os seguintes tópicos:
-- Introdução ao TensorFlow
-- Algoritmos de Machine Learning
-- Redes Neurais Artificiais
-- Redes Neurais Convolucionais (CNNs)
-- Redes Neurais Recorrentes (RNNs)
-- Processamento de Linguagem Natural (NLP)
-- Aprendizado por Reforço (Q-learning)
-- Transfer Learning e Fine-Tuning
+This course covers fundamental concepts in machine learning and deep learning, using TensorFlow to build and train models. Topics include:
+- TensorFlow Basics
+- Machine Learning Algorithms
+- Neural Networks and Deep Learning
+- Convolutional Neural Networks (CNNs)
+- Natural Language Processing (NLP)
+- Reinforcement Learning
 
+## 🛠️ Requirements
 
-## 📜 Referências
+To run the code in this repository, ensure you have the following installed: 
+(When in Windows, I recommend to run in a WSL environment)
+- Python 3.7+
+- TensorFlow {and-cuda}
+- NumPy
+- Pandas
+- Matplotlib
+- All [requirements](requirements.txt)
 
-- [Documentação do TensorFlow](https://www.tensorflow.org/)
-- [Curso no FreeCodeCamp](https://www.freecodecamp.org/learn/machine-learning-with-python/tensorflow/)
+## 📖 Additional Resources
 
-
-## 📜 Licença
-
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+- [TensorFlow Documentation](https://www.tensorflow.org/)
+- [FreeCodeCamp ML with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/)
 
 ---
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario) 🚀
-
+Develped by [Igor Monteiro](https://github.com/IgorG-Monteiro) 🚀
