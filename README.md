@@ -29,4 +29,4 @@ To run the code in this repository, ensure you have the following installed:
 - [FreeCodeCamp ML with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/)
 
 ---
-Develped by [Igor Monteiro](https://github.com/IgorG-Monteiro) 🚀
+Developed by [Igor Monteiro](https://github.com/IgorG-Monteiro) 🚀
