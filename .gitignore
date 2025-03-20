@@ -19,3 +19,7 @@ Projects/KNN Book Recommendation/BX-Books.csv
 Projects/KNN Book Recommendation/BX-Users.csv
 
 Projects/Linear Regression Health Costs/insurance.csv
+
+Projects/SMS Text Classifier/train-data.tsv
+
+Projects/SMS Text Classifier/valid-data.tsv
